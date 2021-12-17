@@ -1,0 +1,7 @@
+C:\Users\ariel\Downloads\DomParserTienda\DomParserTienda\bin\Debug\DomParserTienda.exe.config
+C:\Users\ariel\Downloads\DomParserTienda\DomParserTienda\bin\Debug\DomParserTienda.exe
+C:\Users\ariel\Downloads\DomParserTienda\DomParserTienda\bin\Debug\DomParserTienda.pdb
+C:\Users\ariel\Downloads\DomParserTienda\DomParserTienda\obj\Debug\DomParserTienda.csproj.AssemblyReference.cache
+C:\Users\ariel\Downloads\DomParserTienda\DomParserTienda\obj\Debug\DomParserTienda.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Downloads\DomParserTienda\DomParserTienda\obj\Debug\DomParserTienda.exe
+C:\Users\ariel\Downloads\DomParserTienda\DomParserTienda\obj\Debug\DomParserTienda.pdb

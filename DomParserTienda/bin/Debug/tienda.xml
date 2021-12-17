@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<tienda>
+   <producto proid="1">
+      <nombre>Aceite</nombre>
+      <stock>25</stock>
+      <precio>2,25</precio>
+   </producto>
+    <producto proid="2">
+      <nombre>Arroz</nombre>
+      <stock>10</stock>
+      <precio>11.25</precio>
+   </producto> 
+    <producto proid="3">
+      <nombre>Sal</nombre>
+      <stock>32</stock>
+      <precio>0,85</precio>
+   </producto>
+   <producto proid="4">
+      <nombre>Café</nombre>
+      <stock>52</stock>
+      <precio>3,10</precio>
+   </producto>
+   <producto proid="5">
+      <nombre>Fideo</nombre>
+      <stock>16</stock>
+      <precio>2,15</precio>
+   </producto>
+   <producto proid="6">
+      <nombre>Harina</nombre>
+      <stock>42</stock>
+      <precio>0,55</precio>
+   </producto>
+   <producto proid="7">
+      <nombre>Gaseosa</nombre>
+      <stock>22</stock>
+      <precio>1,10</precio>
+   </producto>
+   <producto proid="8">
+      <nombre>Fósforo</nombre>
+      <stock>30</stock>
+      <precio>1,00</precio>
+   </producto>
+   <producto proid="9">
+      <nombre>Cerveza</nombre>
+      <stock>48</stock>
+      <precio>1,25</precio>
+   </producto>
+   <producto proid="10">
+      <nombre>Mantequilla</nombre>
+      <stock>12</stock>
+      <precio>2,70</precio>
+   </producto>
+   <producto proid="11">
+      <nombre>Queso</nombre>
+      <stock>10</stock>
+      <precio>2,50</precio>
+   </producto>
+   <producto proid="12">
+      <nombre>Jabón</nombre>
+      <stock>20</stock>
+      <precio>0,50</precio>
+   </producto>
+</tienda>
